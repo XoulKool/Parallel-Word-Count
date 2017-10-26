@@ -1,1 +1,0 @@
-Total Compute Time (in Microseconds): 12932413
