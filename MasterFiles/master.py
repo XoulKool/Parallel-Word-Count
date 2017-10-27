@@ -9,6 +9,8 @@ import time
 from multiprocessing import Process, Pipe
 from collections import Counter
 
+#Lucy edited this
+
 NUMPROCESSES = 3
 
 '''
